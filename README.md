@@ -8,9 +8,8 @@ Aplicação desenvolvida em PHP para portfólio web responsivo com área restrit
 <br><br>
 ![Capturar1](https://user-images.githubusercontent.com/48495838/63203421-b4428900-c065-11e9-9126-4bacd65c51ab.JPG)
 
-<br>
-
-![Capturar2](https://user-images.githubusercontent.com/48495838/63203429-c290a500-c065-11e9-8f8a-bc01eee6c25c.JPG)
+<br><br>
+![Capturar2](https://user-images.githubusercontent.com/48495838/63203533-6417f680-c066-11e9-8df0-0470a18bc723.JPG)
 
 <br><br>
 ![Capturar3](https://user-images.githubusercontent.com/48495838/63203437-d3411b00-c065-11e9-9947-6b995d9215f1.JPG)
