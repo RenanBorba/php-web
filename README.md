@@ -1,6 +1,6 @@
 # Projeto Portfólio - Aplicação Web PHP
 
-Aplicação desenvolvida em PHP para portfólio web responsivo com área restrita em AJAX, voltado para gerenciamento escola de cursos.
+Aplicação desenvolvida em PHP para portfólio web responsivo com área restrita em AJAX, voltado para o gerenciamento de escolas profissionalizantes.
 <br><br>
 
 ![screenshot](https://user-images.githubusercontent.com/48495838/63203411-a3921300-c065-11e9-9b50-4ae376503f08.png)
