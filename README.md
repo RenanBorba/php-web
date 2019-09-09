@@ -7,7 +7,7 @@ Aplicação desenvolvida em PHP para portfólio web responsivo, com área restri
   <li>MySQL</li>
   <li>AJAX</li>
   <li>CRUD</li>
-  <li>DataTable</li>
+  <li>DataTable</li> 
 </ul>
 <br><br>
 
