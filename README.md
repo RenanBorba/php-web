@@ -1,4 +1,4 @@
-# Projeto Portfólio - Aplicação Web PHP
+# Projeto Portfólio - Aplicação Web PHP 
 Aplicação desenvolvida em PHP para portfólio web responsivo, com área restrita (login) em AJAX para o gerenciamento de escolas profissionalizantes ou outros empreendimentos, fornecendo ao usuário a opção de modificar o conteúdo da página principal (homepage) sem a necessidade de alterar o código fonte.
 <ul>
   <li>CodeIgniter MVC</li>  
