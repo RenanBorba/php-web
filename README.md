@@ -1,5 +1,24 @@
+<div align="center">
+
 # Projeto Portfólio - Aplicação Web PHP 
+
+</div>
+
+<br> 
+
+<div align="center">
+  
+[![Build Status](https://img.shields.io/github/stars/RenanBorba/php-web.svg)](https://github.com/RenanBorba/php-web)
+
+</div>
+
+<br>
+
 Aplicação desenvolvida em PHP para portfólio web responsivo, com área restrita (login) em AJAX para o gerenciamento de escolas profissionalizantes ou outros empreendimentos, fornecendo ao usuário a opção de modificar o conteúdo da página principal (homepage) sem a necessidade de alterar o código fonte.
+
+<br><br>
+
+## :rocket: Tecnologias 
 <ul>
   <li>CodeIgniter MVC</li>  
   <li>XAMPP</li>
