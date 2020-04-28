@@ -7,7 +7,7 @@
 <br> 
 
 <div align="center">
-  
+
 [![Build Status](https://img.shields.io/github/stars/RenanBorba/php-web.svg)](https://github.com/RenanBorba/php-web)
 
 </div>
@@ -18,7 +18,6 @@ Aplicação desenvolvida em PHP para portfólio web responsivo, com área restri
 
 <br><br>
 
-
 ## :rocket: Tecnologias 
 <ul>
   <li>CodeIgniter MVC</li>  
@@ -28,8 +27,8 @@ Aplicação desenvolvida em PHP para portfólio web responsivo, com área restri
   <li>CRUD</li>
   <li>DataTable</li> 
 </ul>
+
 <br><br>
- 
 
 ![screenshot](https://user-images.githubusercontent.com/48495838/63203411-a3921300-c065-11e9-9b50-4ae376503f08.png)
 
