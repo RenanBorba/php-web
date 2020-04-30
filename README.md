@@ -1,10 +1,10 @@
 <div align="center">
 
-# Projeto Portfólio - Aplicação Web PHP 
+# Projeto Portfólio - Aplicação Web PHP
 
 </div>
 
-<br> 
+<br>
 
 <div align="center">
 
