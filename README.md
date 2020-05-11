@@ -20,7 +20,7 @@ Aplicação desenvolvida em PHP para portfólio web responsivo, com área restri
 
 ## :rocket: Tecnologias
 <ul>
-  <li>CodeIgniter MVC</li>  
+  <li>CodeIgniter MVC</li>
   <li>XAMPP</li>
   <li>MySQL</li>
   <li>AJAX</li>
