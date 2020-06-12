@@ -30,7 +30,7 @@ Aplicação desenvolvida em PHP para portfólio web responsivo, com área restri
 
 <br><br>
 
-## :punch: Como contribuir 
+## :punch: Como contribuir
 <ul>
   <li>Dê um fork nesse repositório</li>
   <li>Crie a sua branch com a feature</li>
