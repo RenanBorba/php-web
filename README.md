@@ -18,6 +18,14 @@ Aplicação desenvolvida em PHP para portfólio web responsivo, com área restri
 
 <br><br>
 
+<div align="center">
+  
+![php](https://user-images.githubusercontent.com/48495838/84692899-fd30cb80-af1c-11ea-926d-9af14723cf54.png)
+
+</div>
+
+<br><br>
+
 ## :rocket: Tecnologias
 <ul>
   <li>CodeIgniter MVC</li>
