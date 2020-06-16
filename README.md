@@ -20,7 +20,7 @@ Aplicação desenvolvida em PHP para portfólio web responsivo, com área restri
 
 <div align="center">
   
-![php](https://user-images.githubusercontent.com/48495838/84692899-fd30cb80-af1c-11ea-926d-9af14723cf54.png)
+![php](https://user-images.githubusercontent.com/48495838/84799754-1d22c680-afd3-11ea-9580-9fab590bf35e.png)
 
 </div>
 
