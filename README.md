@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Build Status](https://img.shields.io/github/stars/RenanBorba/php-web.svg)](https://github.com/RenanBorba/php-web)
+[![Generic badge](https://img.shields.io/badge/Made%20by-Renan%20Borba-purple.svg)](https://shields.io/) [![Build Status](https://img.shields.io/github/stars/RenanBorba/php-web.svg)](https://github.com/RenanBorba/php-web) [![Build Status](https://img.shields.io/github/forks/RenanBorba/php-web.svg)](https://github.com/RenanBorba/php-web) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 </div>
 
@@ -73,7 +73,3 @@ Aplicação desenvolvida em PHP para portfólio web responsivo, com área restri
 <br><br>
 
 ![Capturar4](https://user-images.githubusercontent.com/48495838/63203445-dd631980-c065-11e9-8685-633ced06d902.JPG)
-
-<br><br><br>
-
-Renan Borba.
